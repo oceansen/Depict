@@ -1,0 +1,5 @@
+---- Depict TODO list 08/01/2014
+- Dynamically load a JDBC driver
+- Encrypt the password while saving it to the CTE-XL model file
+- Surrogate relationships allow for definition of the operator between terms (i.e. =, >, <, >=, <=). If multiple key can be different?
+	(Look into SqlExpression)
